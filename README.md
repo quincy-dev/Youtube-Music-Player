@@ -33,7 +33,7 @@ Try the live version of this project [here](link-to-live-demo).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/quincy-dev/Youtube-Music-Player.git
    ```
 
 2. Open `index.html` in your browser to run the app.
